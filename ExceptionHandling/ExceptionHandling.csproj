@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ExceptionHandling.NegativeExp</StartupObject>
+    <StartupObject>ExceptionHandling.Delegate_Demo.cs.BankProgram</StartupObject>
   </PropertyGroup>
 
 </Project>
